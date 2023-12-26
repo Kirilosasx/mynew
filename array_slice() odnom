@@ -1,0 +1,4 @@
+<?php
+$input = array(1 => "a", "b", "c", "d", "e");
+print_r(array_slice($input, 1, 2));
+?>
